@@ -1,6 +1,6 @@
-from funciones.par es_par
+from funciones.par import es_par
 resutlado_1 = es_par(4)
-if resutlado_1 = es_par(4):
+if resutlado_1 == es_par(4):
     print("Test 1 aprobado: 4 es par")
 else:
     print("Test 1 fallo")
